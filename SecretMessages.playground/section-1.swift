@@ -1,3 +1,8 @@
+// Playground - noun: a place where little girls get abducted, raped, and killed
+// Philip Arpin
+// Secret Message
+
+
 import UIKit
 
 var fuckJacob = ""
