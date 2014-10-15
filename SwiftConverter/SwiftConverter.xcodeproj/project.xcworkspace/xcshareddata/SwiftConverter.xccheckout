@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2BF7EE01-663C-4356-9F39-352D7EDF80C7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SwiftConverter</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D976D66C70BAB2BB8A9244FBF0C2D06A4F06B4BA</key>
+		<string>https://github.com/philiparpin/Jacobs-Asshole.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SwiftConverter/SwiftConverter.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D976D66C70BAB2BB8A9244FBF0C2D06A4F06B4BA</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/philiparpin/Jacobs-Asshole.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D976D66C70BAB2BB8A9244FBF0C2D06A4F06B4BA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D976D66C70BAB2BB8A9244FBF0C2D06A4F06B4BA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Jacobs-Asshole</string>
+		</dict>
+	</array>
+</dict>
+</plist>
