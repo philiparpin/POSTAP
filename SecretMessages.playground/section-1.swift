@@ -5,15 +5,15 @@
 
 import UIKit
 
-var fuckJacob = ""
-var jacobsAsshole = "Isverytiny"
+var JacobIsAGod = ""
+var HisAssholiness = "Isverytiny"
 
 var wordlist: [String] = []
 
-for char in jacobsAsshole
+for char in HisAssholiness
 {
-    fuckJacob = "\(char)"
-    wordlist.append(fuckJacob)
+    JacobIsAGod = "\(char)"
+    wordlist.append(JacobIsAGod)
 }
 
 var lettercount = wordlist.count

@@ -3,26 +3,26 @@
 // Bracket Matcher
 import UIKit
 
-func BuckheitAssholeMatcher(var bracketString: String)->Int
+func BuckheitIsBasedGodMatcher(var bracketString: String)->Int
 {
-    var openPussy = 0
-    var closePussy = 0
+    var openJacob = 0
+    var closeJacob = 0
     
     for lechar in bracketString
     {
     if lechar == "("{
-        openPussy++}
+        openJacob++}
     else if lechar == ")"{
-        closePussy++}
-    if (openPussy<closePussy){
+        closeJacob++}
+    if (openJacob<closeJacob){
         return 0}
     }
-if(openPussy == closePussy){
+if(openJacob == closeJacob){
     return 1
 }
 else{
     return 0
 }
 }
-BuckheitAssholeMatcher("Hellew you fucking jew.")
+BuckheitIsBasedGodMatcher("Hellew you fucking jew.")
 
